@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "kblib")(type "Legacy")(uri "/home/stefe/kicadlibs/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "ErgoTravel-rescue")(type "Legacy")(uri "${KIPRJMOD}/ErgoTravel-rescue.lib")(options "")(descr ""))
+)

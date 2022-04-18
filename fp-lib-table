@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "keyswitches")(type "KiCad")(uri "/home/stefe/kicadlibs/keyswitches.pretty-master")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/GIT/ErgoTravel/Library/footprints.pretty")(options "")(descr ""))
+)
